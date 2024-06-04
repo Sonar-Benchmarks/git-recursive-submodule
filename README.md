@@ -19,6 +19,6 @@ The project structure:
 Initialize the submodules:
 
 ```
-git submodule update --init
+git submodule update --init --recursive
 ```
 
