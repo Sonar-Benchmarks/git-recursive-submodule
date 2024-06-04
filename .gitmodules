@@ -1,0 +1,12 @@
+[submodule "sonar-iac"]
+	path = sonar-iac
+	url = https://github.com/SonarSource/sonar-iac.git
+[submodule "terragoat"]
+	path = terragoat
+	url = https://github.com/bridgecrewio/terragoat.git
+[submodule "submodule/ibm-tf-training"]
+	path = submodule/ibm-tf-training
+	url = https://github.com/venkateshk111/IBM-TF-Training.git
+[submodule "submodule/terraform-aws-secure-baseline"]
+	path = submodule/terraform-aws-secure-baseline
+	url = https://github.com/nozaq/terraform-aws-secure-baseline.git
