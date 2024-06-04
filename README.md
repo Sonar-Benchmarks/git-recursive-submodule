@@ -13,7 +13,7 @@ The project structure:
 |- submodule ibm-tf-training (in root)
 |- submodule terraform-aws-secure-baseline (in root)
 |- submodule terragoat (in root)
-|- ExampleSecrets.java (a file containing some secrets)
+|- example-secrets.properties (a file containing some secrets)
 ```
 
 Initialize the submodules:
